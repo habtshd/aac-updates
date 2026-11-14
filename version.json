@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/habtshd/aac-updates/releases/download/v1.0.0/aac-1.0.0.apk",
-  "sha256": "optional-checksum",
-  "notes": "ማሻሻያ: አዲስ ድምፆች ተጨምረዋል",
-  "mandatory": false
+    "latestVersionCode":  2,
+    "versionName":  "1.0.1",
+    "apkUrl":  "https://github.com/habtshd/aac-updates/releases/download/v1.0.1/aac-1.0.1.apk",
+    "sha256":  "96d8fcd6f5d784942b4cfae531e28606a493a36218450d50e608bf3d10f889bf",
+    "notes":  "ማሻሻያ: አዲስ ድምፆች ተጨምረዋል",
+    "mandatory":  false
 }
